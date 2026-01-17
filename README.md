@@ -11,20 +11,6 @@ This is a **Three-Tier Web Application** deployed using Docker.
 
 ##  Project Structure
 
-threetier/
-├── app/
-│ └── code/submit.php
-├── db/
-│ ├── Dockerfile
-│ └── init.sql
-├── web/
-│ ├── code/signup.html
-│ └── config/defualt.conf
-└── docker-compose.yml
-
-yaml
-Copy code
-
 **Project Tree Screenshot:**  
 ![Project Tree](img/tree.png)  
 
