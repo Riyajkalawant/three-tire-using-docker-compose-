@@ -27,7 +27,7 @@ This is a **Three-Tier Web Application** deployed using Docker.
 
 ---
 
-## 🖼️ Screenshots
+##  Screenshots
 
 **Signup Form:**  
 ![Signup Form](img/signup.png)  
